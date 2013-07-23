@@ -9,7 +9,8 @@ following on your local machine:
 
 Once you have these, goto the directory of your cloned files. 
 Now, run the following commands via the terminal.
-1. Bower install
-2. grunt server
+1. npm install -g grunt-cli
+2. Bower install
+3. grunt server
 
 This will deploy the web-app on your local machine.
