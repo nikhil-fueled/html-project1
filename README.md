@@ -18,3 +18,6 @@ This will deploy the web-app on your local machine.
 Also, remember that the main html file to be run is new.html
 So, to run the file, you'd have to key in something like
 http://yoururl.com/new.html
+
+
+-------------------------------------------
