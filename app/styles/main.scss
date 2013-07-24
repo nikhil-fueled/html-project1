@@ -4,7 +4,9 @@ $iconSpritePath: "../images/glyphicons-halflings.png";
 $iconWhiteSpritePath: "../images/glyphicons-halflings-white.png";
 
 
-
+@import 'reset';
+@import '960_24_col';
+@import 'text';
 
 section, header, footer, article nav{
     display:block;
@@ -204,8 +206,7 @@ header{
 #featured{
     position:absolute;
     right:40px;
-    top:45px;
-    img{
+    top:24px;img{
         -webkit-box-shadow: 0 3px 15px #143d47;
         -moz-box-shadow:0 3px 15px #143d47;
         box-shadow:0 3px 15px #143d47   ;
