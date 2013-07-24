@@ -1,0 +1,95 @@
+/*
+  960 Grid System ~ Text CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+/* `Basic HTML
+----------------------------------------------------------------------------------------------------*/
+/* line 11, ../../app/styles/text.scss */
+body {
+  font: 13px/1.5 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
+}
+
+/* line 16, ../../app/styles/text.scss */
+pre,
+code {
+  font-family: "DejaVu Sans Mono", Menlo, Consolas, monospace;
+}
+
+/* line 20, ../../app/styles/text.scss */
+hr {
+  border: 0 solid #ccc;
+  border-top-width: 1px;
+  clear: both;
+  height: 0;
+}
+
+/* `Headings
+----------------------------------------------------------------------------------------------------*/
+/* line 30, ../../app/styles/text.scss */
+h1 {
+  font-size: 25px;
+}
+
+/* line 34, ../../app/styles/text.scss */
+h2 {
+  font-size: 23px;
+}
+
+/* line 38, ../../app/styles/text.scss */
+h3 {
+  font-size: 21px;
+}
+
+/* line 42, ../../app/styles/text.scss */
+h4 {
+  font-size: 19px;
+}
+
+/* line 46, ../../app/styles/text.scss */
+h5 {
+  font-size: 17px;
+}
+
+/* line 50, ../../app/styles/text.scss */
+h6 {
+  font-size: 15px;
+}
+
+/* `Spacing
+----------------------------------------------------------------------------------------------------*/
+/* line 57, ../../app/styles/text.scss */
+ol {
+  list-style: decimal;
+}
+
+/* line 61, ../../app/styles/text.scss */
+ul {
+  list-style: disc;
+}
+
+/* line 65, ../../app/styles/text.scss */
+li {
+  margin-left: 30px;
+}
+
+/* line 84, ../../app/styles/text.scss */
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset,
+figure {
+  margin-bottom: 20px;
+}
